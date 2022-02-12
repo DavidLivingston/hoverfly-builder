@@ -20,7 +20,7 @@
     "author": "David Livingston Leons Suseelabai",
     "license": "MIT",
     "dependencies": {
-        "ajv": "^6.10.2",
+        "ajv": "^6.12.3",
         "arg": "4.1.1",
         "esm": "^3.2.18",
         "glob": "^7.1.4",
